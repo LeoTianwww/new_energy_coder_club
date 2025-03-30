@@ -29,3 +29,4 @@
 ![环境搭建](../image/Snipaste_2025-03-25_21-58-01.png)
 
  @Leo TianWW 弄清了布线，开始从树莓派角度调试数控
+ ![image](https://github.com/user-attachments/assets/e18e10bd-f745-4899-8db1-b3c24cc7b1a7)
